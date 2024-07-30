@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I’m an 18-year-old software developer currently 
 
 ## 📫 Get in Touch
 
-Feel free to reach out to me via [Email](mailto:yohancantin22@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/yohan-cantin-562867240).
+Feel free to reach out to me via [Email](mailto:yohancantin22@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yohan-cantin-562867240).
 
 ---
 
