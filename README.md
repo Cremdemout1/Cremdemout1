@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m an 18-year-old software developer currently 
 
 ## 🌟 Projects
 
-### [Minishell]()
+### [Minishell](https://github.com/Cremdemout1/minishell)
 - **Description:** Collaborative work on a fully functioning UNIX shell, simulating a command-line environment.
 - **Technologies Used:** C, UNIX
 - **Key Features:** Developed features for process handling, piping, and input/output redirection.
