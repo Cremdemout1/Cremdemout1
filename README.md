@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m an 18-year-old software developer currently 
 
 ## 🚀 About Me
 
-- **Languages & Tools:** C, C++, UNIX, HTML, CSS, Git, JavaScript
+- **Languages & Tools:** C, C++, UNIX, HTML, CSS, Git
 - **Current Studies:** Learning C and C++ at 42Lisboa
 - **Career Goals:** Targeting a career in ethical and sustainable AI development and innovative tech
 - **Background:** University education in ethics and philosophy from Dominican University College
