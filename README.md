@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I’m an 18-year-old software developer currently 
 - **Career Goals:** Targeting a career in ethical and sustainable AI development and innovative tech
 - **Background:** University education in ethics and philosophy from Dominican University College
 
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cremdemout1&layout=compact&theme=radical&langs_count=6)
-
 ## 🌟 Projects
 
 ### [Minishell](https://github.com/Cremdemout1/minishell)
@@ -45,5 +43,7 @@ Welcome to my GitHub profile! I’m an 18-year-old software developer currently 
 Feel free to reach out to me via [Email](mailto:yohancantin22@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yohan-cantin-562867240).
 
 ---
+
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cremdemout1&layout=compact&theme=radical&langs_count=6)
 
 Thank you for visiting my GitHub profile! 🎉
