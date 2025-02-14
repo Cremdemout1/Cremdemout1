@@ -10,6 +10,8 @@ Welcome to my GitHub profile! I’m an 18-year-old software developer currently 
 - **Career Goals:** Targeting a career in ethical and sustainable AI development and innovative tech
 - **Background:** University education in ethics and philosophy from Dominican University College
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cremdemout1&layout=compact&theme=radical&langs_count=6)
+
 ## 🌟 Projects
 
 ### [Minishell](https://github.com/Cremdemout1/minishell)
