@@ -38,12 +38,12 @@ Welcome to my GitHub profile! I’m an 18-year-old software developer currently 
 - **Ethics in Tech:** Applying my background in ethics and philosophy to pursue ethical AI solutions.
 - **Innovative Thinking:** Continuously exploring new technologies and methods for sustainable development.
 
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cremdemout1&layout=compact&theme=radical&langs_count=6)
+
 ## 📫 Get in Touch
 
 Feel free to reach out to me via [Email](mailto:yohancantin22@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yohan-cantin-562867240).
 
 ---
-
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cremdemout1&layout=compact&theme=radical&langs_count=6)
 
 Thank you for visiting my GitHub profile! 🎉
