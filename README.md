@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I’m an 19-year-old software developer currently 
 ### [cub3d](https://github.com/Cremdemout1/cub3d)
 - **Description:** First-person 3D game engine inspired by *Wolfenstein 3D*, using raycasting techniques.
 - **Technologies Used:** C, MLX (MiniLibX), X11
-- **Key Features:** Real-time raycasting, wall-texturing, sprite rendering, player movement and collision detection.
+- **Key Features:** Real-time raycasting, wall-texturing, player movement and collision detection.
   
 ### [Minishell](https://github.com/Cremdemout1/minishell)
 - **Description:** Collaborative work on a fully functioning UNIX shell, simulating a command-line environment.
