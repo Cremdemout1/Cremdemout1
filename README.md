@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m an 18-year-old software developer currently 
 - **Description:** First-person 3D game engine inspired by *Wolfenstein 3D*, using raycasting techniques.
 - **Technologies Used:** C, MLX (MiniLibX), X11
 - **Key Features:** Real-time raycasting, wall-texturing, sprite rendering, player movement and collision detection.
-- 
+  
 ### [Minishell](https://github.com/Cremdemout1/minishell)
 - **Description:** Collaborative work on a fully functioning UNIX shell, simulating a command-line environment.
 - **Technologies Used:** C, UNIX
@@ -36,11 +36,6 @@ Welcome to my GitHub profile! I’m an 18-year-old software developer currently 
 - **Description:** Algorithm project for sorting two stacks in C.
 - **Technologies Used:** C
 - **Key Features:** Implemented efficient sorting algorithms to manage stack operations and optimize sorting performance.
-
-### [Pipex](https://github.com/Cremdemout1/42pipex)
-- **Description:** Project using pipes to manage and register commands from UNIX commands.
-- **Technologies Used:** C, UNIX
-- **Key Features:** Implemented command piping to handle multiple processes and streamline data flow between commands.
 
 ## 📚 Learnings & Achievements
 
