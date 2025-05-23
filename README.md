@@ -1,6 +1,6 @@
 # Hi there, I'm Yohan Cantin 👋
 
-Welcome to my GitHub profile! I’m an 18-year-old software developer currently studying at 42Lisboa, where I’m focused on learning C and C++. I’m passionate about ethical and sustainable AI development and innovative technology, with a background in ethics and philosophy from Dominican University College.
+Welcome to my GitHub profile! I’m an 19-year-old software developer currently studying at 42Lisboa, where I’m focused on learning C and C++. I’m passionate about ethical and sustainable AI development and innovative technology, with a background in ethics and philosophy from Dominican University College.
 
 ## 🚀 About Me
 
