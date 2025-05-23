@@ -12,6 +12,16 @@ Welcome to my GitHub profile! I’m an 18-year-old software developer currently 
 
 ## 🌟 Projects
 
+### [ft_irc](https://github.com/Cremdemout1/ft_irc)
+- **Description:** Lightweight IRC server/client implementation following the RFC 2812 protocol.
+- **Technologies Used:** C++, Networking (webSockets)
+- **Key Features:** Real-time message handling, multiple client support, channel creation, and basic user management.
+
+### [Cub3D](https://github.com/Cremdemout1/cub3d)
+- **Description:** First-person 3D game engine inspired by *Wolfenstein 3D*, using raycasting techniques.
+- **Technologies Used:** C, MLX (MiniLibX), X11
+- **Key Features:** Real-time raycasting, wall-texturing, sprite rendering, player movement and collision detection.
+- 
 ### [Minishell](https://github.com/Cremdemout1/minishell)
 - **Description:** Collaborative work on a fully functioning UNIX shell, simulating a command-line environment.
 - **Technologies Used:** C, UNIX
