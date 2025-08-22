@@ -10,6 +10,12 @@ Welcome to my GitHub profile! I’m an 19-year-old software developer currently 
 - **Career Goals:** Targeting a career in ethical and sustainable AI development and innovative tech
 - **Background:** University education in ethics and philosophy from Dominican University College
 
+## 🌐 Web Projects
+
+- [ScratchMap](https://scratchmap.app) → A collaborative mapping platform (Try project [here](https://scratch-map.pages.dev)).  
+- [People Against Genocide Everywhere](https://people-against-genocide-everywhere-behqwx30c.vercel.app/) → A web initiative dedicated to raising awareness and protest organizing, against the genocide in Gaza for peopleagainstgenocideeverywhere.
+  
+
 ## 🌟 Projects
 
 ### [ft_irc](https://github.com/Cremdemout1/ft_irc)
