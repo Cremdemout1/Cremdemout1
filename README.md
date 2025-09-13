@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m an 19-year-old software developer currently 
 
 ## 🚀 About Me
 
-- **Languages & Tools:** C, C++, python -> (scikit-learn, numpy, matplotlib, etc.) , UNIX, HTML, CSS, Git
+- **Languages & Tools:** C, C++, typescript, javascript, python -> (scikit-learn, numpy, matplotlib, etc.) , UNIX, HTML, CSS, Git
 - **Current Studies:** Learning C and C++ at 42Lisboa
 - **Independent Studies:** Self-learning machine learning and statistical methods
 - **Career Goals:** Targeting a career in ethical and sustainable AI development and innovative tech
