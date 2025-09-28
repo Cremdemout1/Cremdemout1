@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I’m an 19-year-old software developer currently 
 
 - [ScratchMap](https://scratchmap.app) → A collaborative mapping platform (Try project [here](https://scratch-map.pages.dev)).  
 - [People Against Genocide Everywhere](https://people-against-genocide-everywhere-behqwx30c.vercel.app/) → A web initiative dedicated to raising awareness and protest organizing, against the genocide in Gaza for peopleagainstgenocideeverywhere.
+- [pong-ai](https://pong-ai-six.vercel.app) → A 3D Pong AI experiment comparing two neural networks with different input sizes, demonstrating how careful selection of input quality and size directly affects AI performance.
   
 
 ## 🌟 Projects
