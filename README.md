@@ -8,8 +8,9 @@ Welcome to my GitHub profile! I’m an 19-year-old software developer currently 
 - **Current Studies:** studying cognitive sciences at the university of Ottawa, Canada
 - **Independent Studies:** Self-learning machine learning and statistical methods
 - **Career Goals:** Targeting a career in ethical and sustainable AI development and innovative tech
-- **Background:** University education in ethics and philosophy from Dominican University College
-                  <br />                  school42 curriculum
+- **Background:**
+  - University education in ethics and philosophy from Dominican University College <br />
+  - School42
   
 ## 🌐 Web Projects
 
