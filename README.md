@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m an 19-year-old software developer currently 
 - **Independent Studies:** Self-learning machine learning and statistical methods
 - **Career Goals:** Targeting a career in ethical and sustainable AI development and innovative tech
 - **Background:** University education in ethics and philosophy from Dominican University College
-                  <br />school42 curriculum
+                  <br />                  school42 curriculum
   
 ## 🌐 Web Projects
 
