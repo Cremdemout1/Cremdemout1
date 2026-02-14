@@ -5,11 +5,12 @@ Welcome to my GitHub profile! I’m an 19-year-old software developer currently 
 ## 🚀 About Me
 
 - **Languages & Tools:** C, C++, typescript, javascript, python -> (scikit-learn, numpy, matplotlib, etc.) , UNIX, HTML, CSS, Git
-- **Current Studies:** Learning C and C++ at 42Lisboa
+- **Current Studies:** studying cognitive sciences at the university of Ottawa, Canada
 - **Independent Studies:** Self-learning machine learning and statistical methods
 - **Career Goals:** Targeting a career in ethical and sustainable AI development and innovative tech
 - **Background:** University education in ethics and philosophy from Dominican University College
-
+                  school42 curriculum
+  
 ## 🌐 Web Projects
 
 - [ScratchMap](https://scratchmap.app) → A collaborative mapping platform (Try project [here](https://scratch-map.pages.dev)).  
